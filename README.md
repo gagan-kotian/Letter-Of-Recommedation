@@ -1,6 +1,9 @@
 
 # Letter Of Recommendation
 
+Welcome to the **Letter of Recommendation** decentralized application (DApp), designed to make the process of managing student recommendation requests more transparent, secure, and efficient using blockchain technology.
+
+This smart contract allows students to submit their recommendation requests and provides authorized personnel with the ability to approve them — all while ensuring the integrity of the data through the power of the Ethereum blockchain.
 
 
 Index
@@ -10,27 +13,29 @@ Index
 - [Environment Variables](#EnvironmentVariables)
 - [Screenshots](#Screenshots)
 
+---
 
+## 🚀 Features
 
+### 1. **Student Recommendation Requests**
+   - Students can submit their name, university, and program to request a recommendation.
+   - Each submission is assigned a unique ID, making it easy to track individual requests.
 
+### 2. **Approval System**
+   - Once a recommendation request is submitted, professors or authorized personnel can approve it.
+   - The approval status is permanently stored on the blockchain, ensuring trust and transparency.
 
+### 3. **View Student Details**
+   - Easily retrieve student details, including their name, university, program, and recommendation status.
+   - Anyone can view the status, ensuring transparency for all parties involved.
 
-## Features
+### 4. **Planned Features**
+   - **Role-Based Access**: Only specific individuals (e.g., professors) will be able to approve recommendations.
+   - **Recommendation Storage**: Option to include recommendation text or an IPFS link for decentralized document storage.
+   - **Revocable Approvals**: Ability to revoke approvals if necessary.
+   - **Recommendation Expiration**: Set an expiration period for recommendations.
+   - **Multi-Signature Approval**: Require multiple approvers for added integrity.
 
-### Project Features
-
-- **Blockchain Integration:** Integrates blockchain technology for secure and decentralized data handling.
-- **Smart Contracts:** Implements smart contracts using Solidity for automated and trustless execution of business logic.
-- **Dynamic Campaign Interaction:** Enables dynamic interaction based on campaign IDs obtained from URLs.
-- **React-Based Application:** Developed using React framework for efficient UI development.
-- **Modern UI Design:** Utilizes Tailwind CSS for responsive and modern UI components.
-- **Routing:** Implements routing using React Router DOM for seamless navigation.
-- **Testing:** Includes comprehensive testing with Jest and React Testing Library.
-- **Performance Monitoring:** Utilizes Web Vitals for tracking and optimizing web performance metrics.
-- **Accessibility:** Ensures accessibility compliance with Jest DOM and user-event libraries.
-- **Custom CSS:** Customizes CSS for specific application styling needs.
-- **Deployment:** Configured for deployment using React Scripts build commands.
-- **Code Quality:** Enforces code quality standards with ESLint based on React guidelines.
 
 
 
@@ -119,15 +124,10 @@ GOERLI_URL=ADD RPC url
 PRIVATE_KEY=ADD Private key of wallet
 ## Screenshots
 
-![Screenshot 1](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img1.png)
-![Screenshot 2](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img2.png)
-![Screenshot 3](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img3.png)
-![Screenshot 4](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img4.png)
-![Screenshot 5](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img5.png)
-![Screenshot 6](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img6.png)
-![Screenshot 7](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img7.png)
-![Screenshot 8](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img8.png)
-![Screenshot 9](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img9.png)
-![Screenshot 10](https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App/raw/main/screenshots/img10.png)
+![Screenshot 1](https://i.postimg.cc/MKJW2HTg/alor4.png)
+![Screenshot 2](https://i.postimg.cc/CxmYq4NV/alor3.png)
+![Screenshot 3](https://i.postimg.cc/1RwQHSHB/alor2.png)
+![Screenshot 4](https://i.postimg.cc/CL4p349f/alor1.png)
+
 
 
